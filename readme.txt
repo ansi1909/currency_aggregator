@@ -1,0 +1,2 @@
+Este plugin usa el api https://github.com/fcoagz/api-pydolarvenezuela/blob/docker/README.md para obtener el valor del dolar oficial.
+Luago agrega está opcuión al selector de Currency Aggregator del plugin FOX - Currency Switcher Professional for WooCommerce como BCV Venezuela (PyDolarVE)
